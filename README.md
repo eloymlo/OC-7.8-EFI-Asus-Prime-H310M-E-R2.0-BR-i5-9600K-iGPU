@@ -5,4 +5,4 @@ Updated version of my previous EFI (7.7). I fixed five issues with this new one:
 2. ShowPicker is set to 'true'
 3. Versobe mode is enabled '-v'
 4. alcid=11 instead of alcid=12
-5. HideAuxialary ist set to 'false'
+5. HideAuxiliary ist set to 'false'
